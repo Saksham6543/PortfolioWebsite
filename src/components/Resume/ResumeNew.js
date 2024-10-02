@@ -7,7 +7,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
 // Correct import path for the PDF file
-import pdf from "../../Assets/Saksham-Chauhan-FlowCV-Resume-20240425 (1).pdf";
+import pdf from "../../Assets/Saksham Chauhan Resume.pdf";
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
